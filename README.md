@@ -22,6 +22,7 @@ Please feel free to take a look through my github page and feel free to contact 
 <p>All of the projects that I have worked on that have to do with my frontend work are public and can be found here</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronansky20&repo=spotifyClone)](https://github.com/Ronansky20/spotifyClone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronansky20&repo=weatherapp)](https://github.com/Ronansky20/weatherapp)
 
 <h2>Contact</h2>
 
