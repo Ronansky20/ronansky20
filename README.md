@@ -23,7 +23,6 @@ Please feel free to take a look through my github page and feel free to contact 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronansky20&repo=spotifyClone)](https://github.com/Ronansky20/spotifyClone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronansky20&repo=weatherapp)](https://github.com/Ronansky20/weatherapp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronansky20&repo=todoapp)](https://github.com/Ronansky20/todoapp)
 
 <h2>Contact</h2>
 
