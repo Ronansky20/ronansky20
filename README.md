@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi, I am Ronan Drost. I am an aspiring developer.
-I am a 20 year old, autistic developer. There are a lot of things you might think of when you think about Autism,
+I am a 21 year old, autistic developer. There are a lot of things you might think of when you think about Autism,
 but for me it means strong analytical skills and learning things extremely fast.
 
 Please feel free to take a look through my github page and feel free to contact me if there are any questions.
