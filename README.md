@@ -21,11 +21,11 @@ Please feel free to take a look through my github page and feel free to contact 
 <h2>My Projects</h2>
 <p>All of the projects that I have worked on that have to do with my frontend work are public and can be found here</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronansky20&repo=spotifyClone)](https://github.com/Ronansky20/spotifyClone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronansky20&repo=personal-development)](https://github.com/Ronansky20/personal-development)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronansky20&repo=weatherapp)](https://github.com/Ronansky20/weatherapp)
 
 <h2>Contact</h2>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<img src="https://www.svgrepo.com/download/447845/website-click.svg" alt="Git" width="45" height="30"/>
-<p align="left"><a href='https://www.linkedin.com/in/ronan-drost-6958801b6/'>My Linkedin</a> ‎ ‎ ‎ ‎ ‎ ‎<a href='https://github.com/Ronansky20'>My Github</a>‎ ‎ ‎ ‎ ‎ ‎<a href='https://ronand.dev'>My Portoflio (Coming soon)</a></p> 
+<p align="left"><a href='https://www.linkedin.com/in/ronan-drost/'>My Linkedin</a> ‎ ‎ ‎ ‎ ‎ ‎<a href='https://github.com/Ronansky20'>My Github</a>‎ ‎ ‎ ‎ ‎ ‎<a href='https://ronand.dev'>My Portoflio (Coming soon)</a></p> 
 
