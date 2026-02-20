@@ -11,8 +11,7 @@ Please feel free to take a look through my github page and feel free to contact 
 <img src="https://www.svgrepo.com/download/353925/javascript.svg" alt="JS" width="45" height="45"/>
 <img src="https://www.svgrepo.com/download/349540/typescript.svg" alt="HTML5" width="45" height="45"/>
 <img src="https://www.svgrepo.com/download/374118/tailwind.svg" alt="Tailwind" width="45" height="45"/>
-<img src="https://www.iconfinder.com/icons/7423888/download/svg/4096" alt="react" width="45" height="45"/>
-<img src="https://www.iconfinder.com/icons/9118036/download/svg/4096" alt="NextJS" width="45" height="45"/>
+<img src="https://www.svgrepo.com/download/493719/react-javascript-js-framework-facebook.svg" alt="react" width="45" height="45"/>
 <img src="https://www.svgrepo.com/download/361039/azure.svg" alt="react" width="45" height="45"/>
 <img src="https://www.svgrepo.com/download/509966/git.svg" alt="Git" width="45" height="45"/>
 
@@ -22,7 +21,7 @@ Please feel free to take a look through my github page and feel free to contact 
 <p>All of the projects that I have worked on that have to do with my frontend work are public and can be found here</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronansky20&repo=personal-development)](https://github.com/Ronansky20/personal-development)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronansky20&repo=weatherapp)](https://github.com/Ronansky20/weatherapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronansky20&repo=weatherapp)](https://github.com/Ronansky20/javascript-learning)
 
 <h2>Contact</h2>
 
