@@ -20,8 +20,8 @@ Please feel free to take a look through my github page and feel free to contact 
 <h2>My Projects</h2>
 <p>All of the projects that I have worked on that have to do with my frontend work are public and can be found here</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronansky20&repo=personal-development)](https://github.com/Ronansky20/personal-development)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ronansky20&repo=weatherapp)](https://github.com/Ronansky20/javascript-learning)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Ronansky20&repo=Ronansky20/personal-development&theme=dark)](https://github.com/Ronansky20/personal-development)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Ronansky20&repo=Ronansky20/javascript-learning&theme=dark)](https://github.com/Ronansky20/javascript-learning)
 
 <h2>Contact</h2>
 
