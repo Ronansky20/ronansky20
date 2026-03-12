@@ -13,9 +13,9 @@ Please take a look through my github page and feel free to contact me if there a
 <img src="https://www.svgrepo.com/download/452075/node-js.svg" alt="Node.js" width="45" height="45"/>
 <img src="https://www.svgrepo.com/download/452088/php.svg" alt="PHP" width="45" height="45"/>
 <img src="https://www.svgrepo.com/download/373595/firebase.svg" alt="Firebase" width="45" height="45"/>
-<img src="https://www.svgrepo.com/download/452091/mysql.svg" alt="MySQL" width="45" height="45"/>
-<img src="https://www.svgrepo.com/download/361039/azure.svg" alt="Azure DevOps" width="45" height="45"/>
-<img src="https://www.svgrepo.com/download/509966/git.svg" alt="Git" width="45" height="45"/>
+<img src="https://www.svgrepo.com/download/342053/mysql.svg" alt="MySQL" width="45" height="45"/>
+<img src="https://www.svgrepo.com/download/448274/azure.svg" alt="Azure DevOps" width="45" height="45"/>
+<img src="https://www.svgrepo.com/download/452210/git.svg" alt="Git" width="45" height="45"/>
 </p>
 
 <h2>📚 Currently Learning</h2>
