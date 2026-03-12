@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-Hi, I am Ronan Drost. I am an aspiring developer.
-I am a 21 year old, autistic developer. There are a lot of things you might think of when you think about Autism,
-but for me it means strong analytical skills and learning things extremely fast.
+Hi, I am Ronan, but online I go by Ronansky
+I am a 22 year old, autistic developer.
 
-Please feel free to take a look through my github page and feel free to contact me if there are any questions.
+Please take a look through my github page and feel free to contact me if there are any questions.
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -18,7 +17,7 @@ Please feel free to take a look through my github page and feel free to contact 
 </p>
 
 <h2>My Projects</h2>
-<p>All of the projects that I have worked on that have to do with my frontend work are public and can be found here</p>
+<p>All of the projects that I have worked on that have to do with my backend work are public and can be found here</p>
 
 <!--[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Ronansky20&repo=Ronansky20/personal-development&theme=dark)](https://github.com/Ronansky20/personal-development)-->
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Ronansky20&repo=Ronansky20/javascript-learning&theme=dark)](https://github.com/Ronansky20/javascript-learning)
