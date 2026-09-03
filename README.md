@@ -1,9 +1,7 @@
 # Hey, I'm Ronan 👋
 ### Backend Developer · He/Him · Utrecht, Netherlands
 
-Hi, I am Ronan, but online I go by Ronansky. I am a 22 year old, autistic backend developer.
-
-I'm currently open to work and looking for a **hybrid backend developer role in the Utrecht area (32hrs)**.
+Hi, I am Ronan, but online I go by Ronansky. I am a 23 year old, backend developer.
 
 Please take a look through my github page and feel free to contact me if there are any questions.
 
@@ -37,5 +35,3 @@ Please take a look through my github page and feel free to contact me if there a
 </p>
 
 ---
-
-*I have autism, which means I work best with clear communication and direct feedback. I'm honest about what I know and what I don't.*
